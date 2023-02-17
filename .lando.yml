@@ -1,0 +1,6 @@
+name: landofldc2023
+recipe: pantheon
+config:
+  framework: drupal8
+  site: landofldc2023
+  id: 8c0b3b5a-a9f3-4459-a5a5-7f2ec93a2ff2
